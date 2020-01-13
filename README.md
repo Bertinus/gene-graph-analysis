@@ -1,4 +1,4 @@
-# Analysis of Gene Interaction Graphs as PriorKnowledge for Machine Learning Models
+# Analysis of Gene Interaction Graphs as Prior Knowledge for Machine Learning Models
 
 Repository for the paper "Analysis of Gene Interaction Graphs as PriorKnowledge for Machine Learning Models"
 
